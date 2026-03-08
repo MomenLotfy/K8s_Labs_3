@@ -105,18 +105,18 @@ http://localhost:8082
 ## 📸 Screenshots
 
 ### 1. Running Pods & Services — `dev` Namespace
-![dev namespace](Screenshot1.png)
+![dev namespace](Screenshot2.png)
 > Output of `kubectl get pods,svc -n dev`
 
 ### 2. Running Pods & Services — `staging` Namespace
-![staging namespace](screenshots2.png)
+![staging namespace](Screenshot3.png)
 > Output of `kubectl get pods,svc -n staging`
 
 ### 3. Browser Output After Port-Forward
 
 ### 3. Browser Output After Port-Forward
 
-![staging namespace](screenshots3.png)
+![staging namespace](Screenshot1.png)
 
 > Frontend application accessible at `http://localhost:8082` via `kubectl port-forward`.
 
