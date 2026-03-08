@@ -122,7 +122,7 @@ http://localhost:8082
 
 ### 3. Browser Output After Port-Forward
 
-![browser output](screenshots1.png)
+!(screenshots1.png)
 
 > Frontend application accessible at `http://localhost:8082` via `kubectl port-forward`.
 
