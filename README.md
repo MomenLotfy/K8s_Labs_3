@@ -114,7 +114,7 @@ http://localhost:8082
 
 ### 2. Running Pods & Services — `staging` Namespace
 
-![staging namespace](screenshots/staging-namespace.png)
+![staging namespace](Screenshot 2026-03-08 211348.png)
 
 > Output of `kubectl get pods,svc -n staging` showing all resources in **Running** state.
 
