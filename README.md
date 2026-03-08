@@ -153,13 +153,8 @@ kubectl logs frontend-pod -n dev
 kubectl delete all --all -n dev
 ```
 
----
 
 ## 👤 Author
-
 **Moamen** — DevOps Engineer  
-*Lab completed as part of Kubernetes & DevSecOps learning path*
 
----
 
-> 📝 **Note:** Place your screenshots in a `screenshots/` folder at the root of this repo and name them `dev-namespace.png`, `staging-namespace.png`, and `browser-output.png` to match the image references above.
