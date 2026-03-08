@@ -114,9 +114,12 @@ http://localhost:8082
 
 ### 3. Browser Output After Port-Forward
 
-_📸 Browser screenshot — coming soon_
+### 3. Browser Output After Port-Forward
+
+![staging namespace](screenshots3.png)
 
 > Frontend application accessible at `http://localhost:8082` via `kubectl port-forward`.
+
 
 ---
 
