@@ -105,11 +105,11 @@ http://localhost:8082
 ## 📸 Screenshots
 
 ### 1. Running Pods & Services — `dev` Namespace
-![dev namespace](Screenshot2.png)
+![dev namespace](Screenshot3.png)
 > Output of `kubectl get pods,svc -n dev`
 
 ### 2. Running Pods & Services — `staging` Namespace
-![staging namespace](Screenshot3.png)
+![staging namespace](Screenshot2.png)
 > Output of `kubectl get pods,svc -n staging`
 
 ### 3. Browser Output After Port-Forward
